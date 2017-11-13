@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563670341649",
+    "firebase_url": "https://chaty-5716a.firebaseio.com",
+    "project_id": "chaty-5716a",
+    "storage_bucket": "chaty-5716a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563670341649:android:43501082bf289779",
+        "android_client_info": {
+          "package_name": "com.etaimuallem.chaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563670341649-45nqa49orjoicqqioesgeok34nnuot6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etaimuallem.chaty",
+            "certificate_hash": "6e4668438e237245c72fc07f57b87d9b9b12d7c1"
+          }
+        },
+        {
+          "client_id": "563670341649-0rpigr8qmjhkmmrjqd5erqlndvhh64m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM59qu8f0GAeBa_JoscRhfK24M8fsRKpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563670341649-0rpigr8qmjhkmmrjqd5erqlndvhh64m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
